@@ -1,0 +1,39 @@
+* {
+  background-color: #fcd25b;
+  margin: 10px;
+}
+
+p, h1, h2, h4, ul, a {
+  text-align: center;
+}
+
+.my-div-one {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+}
+
+.side-by-side {
+  display: inline-block;
+}
+
+.form {
+  padding: 20px;
+}
+
+.my-div-one {
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7MngcDuB_awir_s4I7Kqljb0WU8p6j94RA&s") no-repeat center center;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.one h2 {
+background-color: transparent;
+}
+
+.my-div-one {
+background-color: transparent;
+}
